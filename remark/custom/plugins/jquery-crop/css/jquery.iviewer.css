@@ -1,0 +1,26 @@
+.viewer {
+    -ms-touch-action: none;
+}
+
+.iviewer_common {
+    position:absolute;
+    bottom:10px;
+    border: 1px  solid #000;
+    height: 28px;
+    z-index: 5000;
+}
+
+.iviewer_cursor {
+    cursor: url(hand.cur) 6 8, pointer;
+}
+
+.iviewer_drag_cursor {
+    cursor: url(grab.cur) 6 8, pointer;
+}
+
+.iviewer_button {
+    width: 28px;
+    cursor: pointer;
+    background-position: center center;
+    background-repeat: no-repeat;
+}

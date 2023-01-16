@@ -1,0 +1,9 @@
+[30-Aug-2018 12:33:13 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\ApisController::addrepliesforcomment() in /home/heavykiw/public_html/admin/app/Http/Controllers/ApisController.php on line 1527
+[30-Aug-2018 12:34:32 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\ApisController::addrepliesforcomment() in /home/heavykiw/public_html/admin/app/Http/Controllers/ApisController.php on line 1527
+[30-Aug-2018 12:34:32 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\ApisController::addrepliesforcomment() in /home/heavykiw/public_html/admin/app/Http/Controllers/ApisController.php on line 1527
+[30-Aug-2018 12:34:33 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\ApisController::addrepliesforcomment() in /home/heavykiw/public_html/admin/app/Http/Controllers/ApisController.php on line 1527
+[30-Aug-2018 12:34:33 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\ApisController::addrepliesforcomment() in /home/heavykiw/public_html/admin/app/Http/Controllers/ApisController.php on line 1527
+[30-Aug-2018 12:34:36 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\ApisController::addrepliesforcomment() in /home/heavykiw/public_html/admin/app/Http/Controllers/ApisController.php on line 1527
+[30-Aug-2018 12:34:36 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\ApisController::addrepliesforcomment() in /home/heavykiw/public_html/admin/app/Http/Controllers/ApisController.php on line 1527
+[30-Aug-2018 12:34:36 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\ApisController::addrepliesforcomment() in /home/heavykiw/public_html/admin/app/Http/Controllers/ApisController.php on line 1527
+[30-Aug-2018 12:34:55 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\ApisController::addrepliesforcomment() in /home/heavykiw/public_html/admin/app/Http/Controllers/ApisController.php on line 1527

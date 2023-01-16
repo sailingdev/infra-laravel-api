@@ -1,0 +1,159 @@
+.page-login-v3 #alert_bar {
+    display: none;
+}
+
+.blockUI.blockOverlay {
+    background: #f9f9f9 !important;
+}
+.blockUI.blockMsg.blockPage span.message {
+    padding-left: 5px;
+    font-size: 15px;
+    color: #00BCD4;
+    vertical-align: middle;
+}
+
+.total-search-bar {
+    padding-left: 72px;
+}
+
+.wrap-normal {
+    max-width: 100%;
+    white-space: normal;
+}
+
+.form-group .help-block {
+    display: none;
+}
+.form-group.has-error .help-block {
+    display: block;
+}
+
+@media ( max-width : 767px) {
+    .total-search-bar {
+        padding-left: 0;
+    }
+}
+
+@media ( max-width : 480px) {
+    .btn.wrap-normal {
+        padding: 4px 6px;
+        font-size: 12px;
+    }
+}
+
+@media ( max-width : 425px) {
+    .navbar-brand-text {
+        display: none;
+    }
+}
+
+
+.page-header {
+}
+
+.btn-group.bootstrap-select.open {
+    z-index: 10001;
+}
+
+
+@media (max-width: 480px) {
+    .panel-actions .dataTables_length {
+        display: none;
+    }
+}
+@media (max-width: 320px) {
+    .panel-actions .dataTables_filter {
+        display: none;
+    }
+}
+@media (max-width: 767px) {
+    .dataTables_length {
+        float: left;
+    }
+}
+
+table.dataTable td {
+    vertical-align: middle !important;
+}
+
+.dropdown.inside-table a{
+    text-decoration: none;
+}
+
+.table.dataTable thead th {
+    vertical-align: middle;
+}
+
+table.dataTable thead .sorting:after, table.dataTable thead .sorting_asc:after, table.dataTable thead .sorting_desc:after {
+    top: 26.5% !important;
+}
+
+.modal .modal-body.scrollable {
+    overflow: hidden;
+}
+
+.no-row-margin>.row {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.table span.font-bold {
+    font-weight: bold;
+}
+
+.label-success.label-black {
+    background: #111 !important;
+}
+
+h4.sub-title {
+    padding: 0 5px;
+}
+hr.separator {
+    margin: 3px 0 20px;
+}
+
+table.dataTable img.mg-background {
+    max-height: 150px;
+}
+table.dataTable img.mg-pot {
+    max-width: 150px;
+}
+table.dataTable img.mg-plant {
+    max-width: 100px;
+}
+
+.panel-body h3.panel-sub-title {
+    font-size: 17px;
+}
+.panel-body h4.panel-sub-title {
+    font-size: 15px;
+}
+
+.img-full {
+    width: 100% !important;
+}
+
+.label-rate {
+    display: inline-block;
+    font-size: 13px;
+    color: #d00;
+}
+.rating-xg .icon {
+    font-size: 32px;
+}
+
+.list-group-item.reply_item {
+    padding-left: 32px;
+}
+.list-group-item .media-footer {
+    text-align: right;
+}
+.list-group-item a.btn .icon {
+    margin-right: 0;
+}
+
+.sortable-list {
+    cursor: pointer;
+}
+
+
